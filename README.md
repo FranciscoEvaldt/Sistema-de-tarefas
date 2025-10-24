@@ -36,14 +36,20 @@ $DB_PASS = '';
 ## Estrutura do codigo
 sistema-tarefas/
 
-  public/              ← Arquivos acessíveis pelo navegador
+  public/             ← Arquivos acessíveis pelo navegador
+  
     index.php         ← Tela de login
     dashboard.php     ← Tela principal com lista de tarefas
     register.php      ← Tela de cadastro de usuário
     assets/           ← CSS e JS 
   config/
+  
     db.php            ← Conexão com o banco de dados
+    
   database/
+  
     estrutura.sql     ← Script para criar tabelas e dados iniciais
+    
    docs/
+   
      README.md         ← Documentação do projeto
