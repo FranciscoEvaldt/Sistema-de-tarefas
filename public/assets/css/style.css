@@ -1,0 +1,5 @@
+body { background: #121212; }
+.card { border-radius: 10px; }
+.list-group-item { background: transparent; border: 1px solid rgba(255,255,255,0.06); }
+.bg-body-secondary { background-color: rgba(255,255,255,0.03) !important; }
+.text-muted { color: rgba(255,255,255,0.6) !important; }
