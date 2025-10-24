@@ -35,6 +35,7 @@ $DB_PASS = '';
 
 ## Estrutura do codigo
 sistema-tarefas/
+
   public/              ← Arquivos acessíveis pelo navegador
     index.php         ← Tela de login
     dashboard.php     ← Tela principal com lista de tarefas
